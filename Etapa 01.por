@@ -15,7 +15,7 @@ programa {
 
    }
 
-   escreva(" o resultado da divis„o È " + (valor1/valor2 ))
+   escreva(" o resultado da divis√£o √© " + (valor1/valor2 ))
 
   }
 }
