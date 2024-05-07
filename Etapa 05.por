@@ -17,7 +17,7 @@ programa
 		
 		calculo = soma/cont
 
-		escreva("a média entre esses dois numeros é: ", calculo,  "|" , cont, "|" ,soma)
+		escreva("a mÃ©dia entre esses dois numeros Ã©: ", calculo,  "|" , cont, "|" ,soma)
 
 		
 
