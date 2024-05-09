@@ -5,7 +5,7 @@ programa
 	{
 	inteiro valor, valorinicial = 1, calculo = 0
 
-	escreva("infome um valor ")
+	escreva("informe um valor ")
 	leia(valor)
 
 enquanto(valor > valorinicial ) {
